@@ -1,4 +1,4 @@
-package io.hexlet.java.aws.lambda.links.adder;
+package com.lampart.demo.lambda.links.adder;
 
 import com.amazonaws.services.dynamodbv2.AmazonDynamoDB;
 import com.amazonaws.services.dynamodbv2.AmazonDynamoDBClientBuilder;
